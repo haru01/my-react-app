@@ -1,5 +1,4 @@
-import React, { useState } from 'react'; // React をインポート
-
+import React, { useState } from 'react';
 
 export const Counter = () => {
   const [count, setCount] = useState(0);
